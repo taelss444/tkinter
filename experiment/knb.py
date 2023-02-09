@@ -48,4 +48,5 @@ paper = Button(window,
     command=click)
 paper.place(x=450, y=300)
 
+
 window.mainloop()
